@@ -1,0 +1,7 @@
+pypdf
+rank-bm25
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+anthropic

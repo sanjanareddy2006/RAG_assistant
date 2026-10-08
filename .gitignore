@@ -1,0 +1,9 @@
+cat > .gitignore <<'EOF'
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/chunks.jsonl
+eval/results.md
+EOF
